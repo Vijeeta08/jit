@@ -1,2 +1,5 @@
 welcome to my git repo
-i am from jit 
+i am from jit
+new line 1
+new line 2
+new line 3 
